@@ -1,0 +1,81 @@
+body {
+    background-color: hsl(185, 75%, 39%);
+    font-family: Kumbh Sans, Sans Serif;
+    font-size: 0.5rem;
+
+}
+.bg1 {
+    position: relative;
+    right: 300px;
+    bottom: 550px;
+}
+.bg2 {
+    position: relative;
+    left: 700px;
+    bottom: 650px;
+}
+.card {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.victor {
+    position: absolute;
+    top: 85px;
+    left: 125px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.white-background {
+    position: absolute;
+    background-color: white;
+    height: 400px;
+    width: 350px;
+    border-radius: 15px;
+    right: 40%;
+    top: 120px;
+    z-index: 5;
+}
+.text {
+    position: absolute;
+    top: 200px;
+    left: 100px;
+
+    text-align: center;
+}
+
+h2,p {
+    color: hsl(0, 0%, 59%);
+}
+span {
+    color: hsl(0, 0%, 59%);
+}
+hr {
+    position: absolute;
+    border: none;
+    border-top: solid;
+    width: 100%;
+    border-width: 1px;
+    border-color: hsl(0, 0%, 59%);
+    top: 275px;
+}
+.d2 {
+    position: absolute;
+    top: 300px;
+    left: 50px;
+    text-align: center;
+}
+.d3 {
+    position: absolute;
+    top: 300px;
+    left: 150px;
+    text-align: center;
+}
+.d4 {
+    position: absolute;
+    top: 300px;
+    left: 250px;
+    text-align: center;
+}
